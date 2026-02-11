@@ -1,3 +1,3 @@
 # Jory
 ## Lab2
-### What I did in the lab
+### To-do list in this lab
